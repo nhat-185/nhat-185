@@ -40,7 +40,8 @@ I am passionate about **industrial automation systems**, **backend-oriented indu
 
 ---
 
-📫 Contact Me
-📧 Email: elosol185@gmail.com
-📱 Phone: +84 773 655 941
-🌐 GitHub: https://github.com/nhat-185/nhat-185
+## 📫 Contact Me
+- 📧 Email: elosol185@gmail.com
+- 📱 Phone: +84 773 655 941
+- 🌐 GitHub: https://github.com/nhat-185
+
