@@ -21,16 +21,17 @@ I am passionate about **industrial automation systems**, **backend-oriented indu
 ### 🔹 Programming Languages
 - C, C#, Assembly
 
-### 🔹 Tools & Technologies
-- Git, Postman
-- Arduino IDE
+### 🔹 Electronic Design & Simulation:
+- Altium Designer, Proteus, PSIM, LTspice
 
-### 🔹 Engineering & Simulation Software
-- Proteus
-- Altium Designer
+### 🔹 Control & Mathematical Modeling:
 - MATLAB / Simulink
-- LTspice
-- Unity
+
+### 🔹 Development Tools & Environments:
+- VS Code, Arduino IDE, Unity, Postman
+  
+### 🔹 Version Control & Hardware Testing: 
+- Git, Oscilloscope, VOM
 
 ### 🔹 Automation & Industrial Knowledge
 - Basic knowledge of **industrial sensors and actuators**
