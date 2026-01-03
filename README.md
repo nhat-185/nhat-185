@@ -19,7 +19,7 @@ I am passionate about **industrial automation systems**, **backend-oriented indu
 ## 🛠 Technical Skills
 
 ### 🔹 Programming Languages
-- C, C#, C++
+- C, C#, Assembly
 
 ### 🔹 Tools & Technologies
 - Git, Postman
